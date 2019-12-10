@@ -1,0 +1,195 @@
+Computational Mining of Social Media to Curb Terrorism
+Dynamic Malware Analysis in the Modern Era¡ªA State of the Art Survey
+Extraction and Analysis of Fictional Character Networks: A Survey
+A Survey on Mobility-Induced Service Migration in the Fog, Edge, and Related Computing Paradigms
+Security Modeling of Autonomous Systems: A Survey
+A Survey on Food Computing
+A Systematic Review on Cloud Testing
+Machine Learning Methods for Reliable Resource Provisioning in Edge-Cloud Computing: A Survey
+Orchestrating Big Data Analysis Workflows in the Cloud: Research Challenges, Survey, and Future Directions
+Automated Expertise Retrieval: A Taxonomy-Based Survey and Open Issues
+Resource Management in Fog/Edge Computing: A Survey on Architectures, Infrastructure, and Algorithms
+DNA Sequencing Technologies: Sequencing Data Protocols and Bioinformatics Tools
+Big Data Analytics for Large-scale Wireless Networks: Challenges and Opportunities
+Formal Specification and Verification of Autonomous Robotic Systems: A Survey
+A Survey of Tool-supported Assurance Case Assessment Techniques
+Adaptive Biometric Systems: Review and Perspectives
+Large-scale Semantic Integration of Linked Data: A Survey
+A Comprehensive Survey on Cloud Data Mining (CDM) Frameworks and Algorithms
+Autonomous UAV Cinematography: A Tutorial and a Formalized Shot-Type Taxonomy
+Video Skimming: Taxonomy and Comprehensive Survey
+How Complex Is Your Classification Problem?: A Survey on Measuring Classification Complexity
+Demystifying Parallel and Distributed Deep Learning: An In-depth Concurrency Analysis
+Unsupervised Approaches for Textual Semantic Annotation, A Survey
+Comprehensive Study of Continuous Orthogonal Moments¡ªA Systematic Review
+A Survey on Scheduling Strategies for Workflows in Cloud Environment and Emerging Trends
+Progress, Justness, and Fairness
+Evaluating Domain Ontologies: Clarification, Classification, and Challenges
+A Survey on 360¡ã Video Streaming: Acquisition, Transmission, and Display
+Recoloring Algorithms for Colorblind People: A Survey
+Understanding Deep Learning Techniques for Image Segmentation
+Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities
+Beyond 2014: Formal Methods for Attack Tree--based Security Modeling
+A Survey on PCM Lifetime Enhancement Schemes
+Human--Computer Interaction on the Skin
+Towards Adversarial Malware Detection: Lessons Learned from PDF-based Attacks
+A Systematic Review on Imbalanced Data Challenges in Machine Learning: Applications and Solutions
+A Survey on Adaptive Authentication
+Software Development Lifecycle for Energy Efficiency: Techniques and Tools
+A Game-theoretic Taxonomy and Survey of Defensive Deception for Cybersecurity and Privacy
+Decision Tree Classification with Differential Privacy: A Survey
+Performance-Aware Management of Cloud Resources: A Taxonomy and Future Directions
+Huffman Coding
+A Survey on Gait Recognition via Wearable Sensors
+Naming Content on the Network Layer: A Security Analysis of the Information-Centric Network Model
+Text Analysis in Adversarial Settings: Does Deception Leave a Stylistic Trace?
+WiFi Sensing with Channel State Information: A Survey
+A Survey on Collecting, Managing, and Analyzing Provenance from Scripts
+Comparison of Software Design Models: An Extended Systematic Mapping Study
+From Hack to Elaborate Technique¡ªA Survey on Binary Rewriting
+Dance Interactive Learning Systems: A Study on Interaction Workflow and Teaching Approaches
+Security and Privacy on Blockchain
+Evaluation of Hardware Data Prefetchers on Server Processors
+Leveraging User-related Internet of Things for Continuous Authentication: A Survey
+A Survey on Big Multimedia Data Processing and Management in Smart Cities
+Multi-model Databases: A New Journey to Handle the Variety of Data
+A Survey of Timing Verification Techniques for Multi-Core Real-Time Systems
+A Survey of Group Key Agreement Protocols with Constant Rounds
+Mulsemedia DIY: A Survey of Devices and a Tutorial for Building Your Own Mulsemedia Environment
+Survey and Taxonomy of Volunteer Computing
+Privacy Analysis on Microblogging Online Social Networks: A Survey
+Infrastructure-Independent Indoor Localization and Navigation
+Survey on Combinatorial Register Allocation and Instruction Scheduling
+Environmental Audio Scene and Sound Event Recognition for Autonomous Surveillance: A Survey and Comparative Studies
+Indoor Localization Improved by Spatial Context¡ªA Survey
+Computer-aided Arrhythmia Diagnosis with Bio-signal Processing: A Survey of Trends and Techniques
+Machine Learning for Smart Building Applications: Review and Taxonomy
+Computational Understanding of Visual Interestingness Beyond Semantics: Literature Survey and Analysis of Covariates
+Quality Evaluation of Solution Sets in Multiobjective Optimisation: A Survey
+A Survey on Multithreading Alternatives for Soft Error Fault Tolerance
+Software-defined Networking-based DDoS Defense Mechanisms
+Cooperative Heterogeneous Multi-Robot Systems: A Survey
+Insight Into Insiders and IT: A Survey of Insider Threat Taxonomies, Analysis, Modeling, and Countermeasures
+Passive Vision Region-Based Road Detection: A Literature Review
+Negative Sequence Analysis: A Review
+Gait-based Person Re-identification: A Survey
+Countermeasures against Worm Spreading: A New Challenge for Vehicular Networks
+Indoor Positioning Based on Visible Light Communication: A Performance-based Survey of Real-world Prototypes
+A Comprehensive Survey on Parallelization and Elasticity in Stream Processing
+A Multi-Vocal Review of Security Orchestration
+Anomaly Detection Methods for Categorical Data: A Review
+A Survey on Modality Characteristics, Performance Evaluation Metrics, and Security for Traditional and Wearable Biometric Systems
+Deep Neural Network Approximation for Custom Hardware: Where We've Been, Where We're Going
+Smart City System Design: A Comprehensive Study of the Application and Data Planes
+A Survey of Chip-level Thermal Simulators
+Handcrafted and Deep Trackers: Recent Visual Object Tracking Approaches and Trends
+A Survey on Power Management Techniques for Oversubscription of Multi-Tenant Data Centers
+Edge Cloud Offloading Algorithms: Issues, Methods, and Perspectives
+Code Authorship Attribution: Methods and Challenges
+A Survey on Graph Drawing Beyond Planarity
+Deep Learning Based Recommender System: A Survey and New Perspectives
+Graph-Based Skill Acquisition For Reinforcement Learning
+Recent Advances in Transfer Learning for Cross-Dataset Visual Recognition: A Problem-Oriented Perspective
+Brownout Approach for Adaptive Management of Resources and Applications in Cloud Computing Systems: A Taxonomy and Future Directions
+Conceptual Representations for Computational Concept Creation
+How Generative Adversarial Networks and Their Variants Work: An Overview
+Sustainable Offloading in Mobile Cloud Computing: Algorithmic Design and Implementation
+An Exhaustive Survey on Security Concerns and Solutions at Different Components of Virtualization
+A Survey on Bayesian Nonparametric Learning
+Probabilistic Worst-Case Timing Analysis: Taxonomy and Comprehensive Survey
+Modeling Information Retrieval by Formal Logic: A Survey
+L
+Urban Computing Leveraging Location-Based Social Network Data: A Survey
+The Real-Time Linux Kernel: A Survey on PREEMPT_RT
+Trust Evaluation in Cross-Cloud Federation: Survey and Requirement Analysis
+Survey on Brain-Computer Interface: An Emerging Computational Intelligence Paradigm
+A Survey on Various Threats and Current State of Security in Android Platform
+Identifying Top-
+Machine Learning for Survival Analysis: A Survey
+Towards the Decentralised Cloud: Survey on Approaches and Challenges for Mobile, Ad hoc, and Edge Computing
+A Survey on Brain Biometrics
+¡°Dave...I can assure you ...that it¡¯s going to be all right ...¡± A Definition, Case for, and Survey of Algorithmic Assurances in Human-Autonomy Trust Relationships
+Integrated NFV/SDN Architectures: A Systematic Literature Review
+A Survey of On-Chip Optical Interconnects
+A Survey of Communication Protocols for Internet of Things and Related Challenges of Fog and Cloud Computing Integration
+A Perspective Analysis of Handwritten Signature Technology
+A Comprehensive Survey of Deep Learning for Image Captioning
+Cloud Brokerage: A Systematic Survey
+Issues and Challenges of Load Balancing Techniques in Cloud Computing: A Survey
+Methods and Tools for Policy Analysis
+Recent Developments in Cartesian Genetic Programming and its Variants
+Parallel Computing of Support Vector Machines: A Survey
+Synthesis of Facial Expressions in Photographs: Characteristics, Approaches, and Challenges
+Formal Approaches to Secure Compilation: A Survey of Fully Abstract Compilation and Related Work
+A Survey of Communication Performance Models for High-Performance Computing
+Linked Vocabulary Recommendation Tools for Internet of Things: A Survey
+STRAM: Measuring the Trustworthiness of Computer-Based Systems
+Post-Quantum Lattice-Based Cryptography Implementations: A Survey
+Demystifying Arm TrustZone: A Comprehensive Survey
+A Survey on Agent-based Simulation Using Hardware Accelerators
+A Critical Review of Proactive Detection of Driver Stress Levels Based on Multimodal Measurements
+A Survey on Gait Recognition
+A Survey on Game-Theoretic Approaches for Intrusion Detection and Response Optimization
+Is Multimedia Multisensorial? - A Review of Mulsemedia Systems
+A Survey on Deep Learning: Algorithms, Techniques, and Applications
+A Survey of Methods for Explaining Black Box Models
+Security of Distance-Bounding: A Survey
+Triclustering Algorithms for Three-Dimensional Data Analysis: A Comprehensive Survey
+A Survey on Compiler Autotuning using Machine Learning
+Knee Articular Cartilage Segmentation from MR Images: A Review
+Host-Based Intrusion Detection System with System Calls: Review and Future Trends
+Engagement in HCI: Conception, Theory and Measurement
+A Survey on Self-Adaptive Security for Large-scale Open Environments
+Survey on Computational Trust and Reputation Models
+Machine Learning in Network Centrality Measures: Tutorial and Outlook
+A Systematic Review for Smart City Data Analytics
+A Taxonomy and Future Directions for Sustainable Cloud Computing: 360 Degree View
+A Manifesto for Future Generation Cloud Computing: Research Directions for the Next Decade
+Relation Extraction Using Distant Supervision: A Survey
+A Survey of Cloudlet-Based Mobile Augmentation Approaches for Resource Optimization
+A Survey and Taxonomy of Core Concepts and Research Challenges in Cross-Platform Mobile Development
+A Survey of Petri Nets Slicing
+Sequence-Aware Recommender Systems
+A Survey on Malicious Domains Detection through DNS Data Analysis
+Voice Disguise in Automatic Speaker Recognition
+Who Watches the Watchmen: A Security-focused Review on Current State-of-the-art Techniques, Tools, and Methods for Systems and Binary Analysis on Modern Platforms
+Systematically Understanding the Cyber Attack Business: A Survey
+Activity Recognition with Evolving Data Streams: A Review
+FPGA Dynamic and Partial Reconfiguration: A Survey of Architectures, Methods, and Applications
+Auto-Scaling Web Applications in Clouds: A Taxonomy and Survey
+Analytics for the Internet of Things: A Survey
+Large-Scale Ontology Matching: State-of-the-Art Analysis
+A Survey of Physics-Based Attack Detection in Cyber-Physical Systems
+Group Deviation Detection Methods: A Survey
+Evaluation in Contextual Information Retrieval: Foundations and Recent Advances within the Challenges of Context Dynamicity and Data Privacy
+A Survey on Homomorphic Encryption Schemes: Theory and Implementation
+Deception Techniques in Computer Security: A Research Perspective
+A Survey of Machine Learning for Big Code and Naturalness
+Scalable Metadata Management Techniques for Ultra-Large Distributed Storage Systems -- A Systematic Review
+Spatio-Temporal Data Mining: A Survey of Problems and Methods
+RDF Data Storage and Query Processing Schemes: A Survey
+A Survey on Automatic Detection of Hate Speech in Text
+Presentation Attack Detection for Iris Recognition: An Assessment of the State-of-the-Art
+Automated Regression Test Case Generation for Web Application: A Survey
+GeoStreams: A Survey
+Content-Based Music Information Retrieval (CB-MIR) and Its Applications toward the Music Industry: A Review
+Current and Future Trends in Mobile Device Forensics: A Survey
+A Survey on Multidimensional Scaling
+A Survey of Random Forest Based Methods for Intrusion Detection Systems
+Co-Simulation: A Survey
+A Survey of Symbolic Execution Techniques
+A Survey on Routing in Anonymous Communication Protocols
+A Survey of Network Traffic Anonymisation Techniques and Implementations
+Provenance Analytics for Workflow-Based Computational Experiments: A Survey
+A Survey of End-System Optimizations for High-Speed Networks
+A Systematic Mapping Study on Intrusion Alert Analysis in Intrusion Detection Systems
+Toolflows for Mapping Convolutional Neural Networks on FPGAs: A Survey and Future Directions
+Technical Privacy Metrics: A Systematic Survey
+Measuring Software Process: A Systematic Mapping Study
+A Taxonomy of Software-Defined Networking (SDN)-Enabled Cloud Computing
+Scalable Graph Processing Frameworks: A Taxonomy and Open Challenges
+A Survey and Taxonomy of Self-Aware and Self-Adaptive Cloud Autoscaling Systems
+Graph Summarization Methods and Applications: A Survey
+Reproducibility in Scientific Computing
+Continuous Spatial Query Processing: A Survey of Safe Region Based Techniques
+Deep Learning for Biometrics: A Survey
